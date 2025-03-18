@@ -2,6 +2,25 @@
 
 RoadMate is a comprehensive Flutter-based mobile application designed to assist drivers during roadside emergencies and vehicle breakdowns. It provides real-time solutions ranging from DIY troubleshooting guides to immediate connections with nearby mechanics, emergency services, and roadside assistance. The app leverages Firebase for authentication and data storage, Google Maps and Places APIs for location-based services, and a cutting-edge chatbot powered by Google Gemini API to deliver multilingual support and step-by-step guidance.
 
+## Table of Contents
+- [Problem Statement](#problem-statement)
+- [Solution Overview](#solution-overview)
+- [Setup & Installation](#setup--installation)
+  - [Prerequisites](#prerequisites)
+  - [Steps to Set Up](#steps-to-set-up)
+- [Usage Instructions](#usage-instructions)
+- [API Documentation](#api-documentation)
+  - [Firebase Authentication API](#firebase-authentication-api)
+  - [Firestore API](#firestore-api)
+  - [Google Maps API](#google-maps-api)
+  - [Google Places API](#google-places-api)
+  - [Google Gemini API](#google-gemini-api)
+- [Demo Video](#demo-video)
+- [Additional Resources](#additional-resources)
+- [License](#license)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ---
 
 ## Problem Statement
@@ -46,7 +65,7 @@ Follow these steps to set up and run RoadMate on your local machine or mobile de
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/RoadMate.git
+   git clone https://github.com/avgvcoding/RoadMate.git
    cd RoadMate
    ```
 
