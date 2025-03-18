@@ -17,8 +17,6 @@ RoadMate is a comprehensive Flutter-based mobile application designed to assist 
   - [Google Gemini API](#google-gemini-api)
 - [Demo Video](#demo-video)
 - [Additional Resources](#additional-resources)
-- [License](#license)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ---
