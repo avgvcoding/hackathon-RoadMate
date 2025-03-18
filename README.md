@@ -175,14 +175,11 @@ For additional technical details and further customizations, refer to the code c
 
 ## Demo Video
 
-A detailed demo video showcasing the features and functionalities of RoadMate is available on YouTube. The video covers:
-- User registration and login.
-- Accessing and using DIY tutorials.
-- Real-time map integration and locating nearby service providers.
-- Interacting with the AI-powered chatbot for troubleshooting.
-- Emergency contact and assistance features.
+A detailed demo video showcasing the features and functionalities of RoadMate is available on YouTube.
 
 [Watch the Demo Video](https://youtu.be/POSViz-btZQ?si=MJz1x2YMUmxyQ_hv)
+
+https://youtu.be/POSViz-btZQ?si=D2GxnixE1lSmA1TH
 
 ---
 
