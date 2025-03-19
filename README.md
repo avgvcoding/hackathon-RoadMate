@@ -1,6 +1,7 @@
 # RoadMate (Antino E-Hackathon)
 
 RoadMate is a comprehensive Flutter-based mobile application designed to assist drivers during roadside emergencies and vehicle breakdowns. It provides real-time solutions ranging from DIY troubleshooting guides to immediate connections with nearby mechanics, emergency services, and roadside assistance. The app leverages Firebase for authentication and data storage, Google Maps and Places APIs for location-based services, and a cutting-edge chatbot powered by Google Gemini API to deliver multilingual support and step-by-step guidance. Also I will update this GitHub repository with some bug fixes and app updates so, I will be providing new APK files in my GitHub repository so please download the updated APK files from my GitHub repository to check out the updated APK. You can use the APK files to quickly download the app and use on your mobile (android device).
+The codes for the app is present inside the lib folder of this repository.
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
