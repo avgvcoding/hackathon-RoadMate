@@ -86,13 +86,14 @@ This guide explains how to install Flutter (and Dart) on your system, set up an 
 ## 3. Running Your Flutter App on an Android Device
 
 1. Navigate to your Flutter project directory in your terminal.
-2. Run the following command to build and deploy your app on the connected device:
+2. Run the pubspec.yaml file to install dependencies of the project. You can run it by simply clicking on CTRL+S. Also download Flutter and Dart extensions in your VS Code.
+3. Run the following command to build and deploy your app on the connected device:
    
    ```bash
    flutter run
    ```
    
-3. The app should launch on your Android device.
+4. The app should launch on your Android device.
 
 ---
 
