@@ -95,7 +95,7 @@ Follow these steps to set up and run RoadMate on your local machine or mobile de
    - Alternatively, use Android Studio or VS Code to run and debug the app on your emulator or connected device.
 
 6. **APK Installation (Android):**
-   - Download the APK file from the repository.
+   - Download the [APK file](app-release.apk) from the repository.
    - Transfer the APK to your Android device.
    - Enable installation from unknown sources in your device settings.
    - Install the APK and open the app.
