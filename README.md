@@ -189,20 +189,20 @@ https://youtu.be/POSViz-btZQ?si=D2GxnixE1lSmA1TH
 ## App Images
 
 <div align="center">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0006.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0002.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0003.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0004.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0005.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0007.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0008.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0009.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0010.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0011.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0012.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0013.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0014.jpg" width="300">
-  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0015.jpg" width="300">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0006.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0002.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0003.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0004.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0005.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0007.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0008.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0009.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0010.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0011.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0012.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0013.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0014.jpg" width="150">
+  <img src="https://github.com/avgvcoding/hackathon-RoadMate/blob/dd5141f7adf13ea25d78b72432c97b5c835b7eb7/App%20Images/IMG-20250323-WA0015.jpg" width="150">
 </div>
 
 ---
