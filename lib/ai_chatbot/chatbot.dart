@@ -62,7 +62,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final TextEditingController _textController = TextEditingController();
   final ScrollController _scrollController = ScrollController();
 
-  final String geminiApiKey = 'AIzaSyC1C1W6YoVbiweEF1aUwq7SHgpvbSpdn5U';
+  final String geminiApiKey = '';
 
   static const String _typingIndicator = '__typing_indicator__';
 
