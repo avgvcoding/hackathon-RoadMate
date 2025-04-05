@@ -5,7 +5,7 @@ import '../models/place_model.dart';
 
 class PlacesService {
   final String apiKey =
-      'AIzaSyA1qSgbW21nTPHh0WNCDCMn8hyshpflmYo'; // Replace with your web service enabled API key
+      ''; // Replace with your web service enabled API key
 
   Future<List<Place>> getNearbyPlaces(LatLng location) async {
     final String url = 'https://places.googleapis.com/v1/places:searchNearby';
